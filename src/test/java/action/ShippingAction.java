@@ -43,7 +43,7 @@ public class ShippingAction {
 	}
 	public String getVerifyText() {
 		String str =loc.verifyText.getText();
-		HelperClass.jse.executeScript("window.scrollBy(0,-100)");
+		HelperClass.jse.executeScript("window.scrollBy(0,100)");
 		return str;
 	}
 }
