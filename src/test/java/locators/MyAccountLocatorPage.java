@@ -27,11 +27,7 @@ public class MyAccountLocatorPage {
 	@FindBy(xpath="(//div[@class='box-actions'])[1]/a")
 	public WebElement changeaddress;
 	
-	@FindBy(xpath="//input[@id='street_1']")
-	public WebElement addressgiven;
-	
-	@FindBy(xpath="//button[@title='Save Address']")
-	public WebElement saveaddress;
+ the kavy made some changes
 	@FindBy(xpath="//div[text()='You saved the address.']")
 	public WebElement saveaddressVerify;
 	
