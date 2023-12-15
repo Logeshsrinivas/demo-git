@@ -1,0 +1,606 @@
+[INFO ] 2023-11-16 15:56:11.274 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-16 15:56:21.084 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-16 15:56:45.319 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-16 15:56:46.139 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-16 15:56:47.337 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-16 15:56:58.684 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-16 22:48:24.634 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-16 22:48:26.865 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-16 22:48:29.892 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-16 22:48:31.115 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-16 22:48:32.499 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-16 22:49:32.750 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-16 22:49:34.972 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-16 22:49:37.332 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-16 22:49:38.431 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-16 22:49:39.669 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-16 22:49:50.358 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-17 22:20:15.186 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-17 22:20:41.036 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-17 22:20:55.424 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-17 22:20:56.405 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-17 22:20:56.443 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-17 22:21:07.184 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-17 22:25:14.673 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-17 22:25:55.529 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-17 22:26:28.895 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-17 22:27:29.140 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-19 15:47:09.701 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 15:47:36.340 [main] RegisterDefinition - Driver closed Successfully
+[INFO ] 2023-11-19 15:47:59.224 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 15:49:33.863 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 15:52:11.634 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 15:56:29.061 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:09:35.209 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:12:04.791 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:13:27.529 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:15:56.987 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:25:08.329 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:26:18.682 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:27:21.579 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:28:06.028 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:29:27.578 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:31:46.089 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:34:17.079 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:36:25.545 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:39:26.987 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:40:37.798 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:42:20.419 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:43:51.043 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:45:11.245 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:46:01.700 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:50:17.829 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:55:01.559 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:57:38.628 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:58:40.672 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 16:59:35.601 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:00:35.476 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:02:01.573 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:03:10.690 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:04:45.750 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:06:36.639 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:08:00.116 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:09:24.867 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:10:16.951 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:11:56.899 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:14:24.373 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:15:08.431 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:16:46.248 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:17:32.677 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:18:30.258 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:19:31.832 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:20:53.882 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:28:24.229 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:34:46.075 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:35:48.514 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:37:26.502 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:38:16.009 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:46:04.647 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:48:30.676 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:54:37.965 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 17:57:02.458 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:03:21.070 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:05:21.889 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:06:28.859 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:07:37.609 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:08:05.195 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:11:41.535 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:14:31.510 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:15:46.802 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:16:37.831 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:17:32.075 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:18:02.907 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:31:58.669 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:33:22.485 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 18:35:42.437 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 21:04:43.136 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 21:05:13.784 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 21:07:27.632 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 21:58:53.389 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 21:59:21.513 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:02:57.092 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:04:11.969 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:04:37.556 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:05:39.839 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:07:41.404 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:08:09.980 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:12:45.816 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:32:21.312 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:33:38.369 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:37:47.981 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:38:22.843 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:40:10.018 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:44:06.196 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:47:13.215 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:47:55.024 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:49:59.146 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:52:04.917 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:52:50.389 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:53:37.324 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:56:42.923 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:58:01.366 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:58:59.509 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 22:59:42.153 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-19 23:03:06.916 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:34:42.606 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:36:01.505 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:36:29.664 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:39:45.716 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:40:28.759 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:41:30.918 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:43:14.082 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:47:19.451 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:48:07.530 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:53:42.785 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:55:25.842 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:56:56.541 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:58:03.228 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 07:59:13.268 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:00:24.486 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:03:35.527 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:05:04.356 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:06:02.856 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:07:06.743 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:08:53.021 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:11:11.128 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:12:08.833 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:22:45.794 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:30:10.589 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:31:39.111 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:33:22.088 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 08:34:50.013 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:10:26.351 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:14:53.700 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:22:54.251 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:30:20.161 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:34:54.349 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:36:05.360 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:36:58.670 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:38:35.286 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:41:37.586 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:46:02.801 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:48:58.354 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:50:55.926 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:52:14.241 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:55:02.752 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:55:55.559 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:57:16.043 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:58:11.246 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:58:50.770 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 10:58:59.118 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 10:59:08.599 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 10:59:09.394 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 10:59:09.423 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 11:01:01.836 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:01:30.069 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:01:56.280 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:04:13.076 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:05:25.357 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:06:47.267 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:08:07.533 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:09:19.419 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:10:24.236 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:12:17.114 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:13:19.820 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:14:28.770 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:16:21.010 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:17:16.735 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:17:47.395 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:24:51.385 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:32:06.945 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:35:27.438 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:35:52.411 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 11:36:26.389 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:11:32.946 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:24:24.090 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:38:18.916 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:39:56.246 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:42:48.379 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:43:47.844 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:47:01.300 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:47:36.085 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:48:33.923 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:48:38.914 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 12:48:42.792 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 12:48:43.771 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 12:48:43.790 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 12:51:06.501 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:51:09.155 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 12:51:11.681 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 12:51:12.554 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 12:51:15.028 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 12:51:15.091 [main] RegisterDefinition - Aseert successful
+[INFO ] 2023-11-20 12:52:25.743 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:53:23.245 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:54:18.639 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:54:46.685 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:55:30.192 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 12:56:46.381 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:00:52.173 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:01:41.162 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:02:12.679 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:02:39.996 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:04:32.307 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:05:59.675 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:06:59.274 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:08:21.840 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:09:43.889 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:11:29.007 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:13:19.036 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:14:40.466 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:15:19.106 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:15:51.153 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:16:45.950 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:17:40.564 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:18:07.429 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:18:41.490 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:21:40.228 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:22:54.140 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:23:23.332 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:23:43.755 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:24:09.100 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:24:57.097 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:25:00.888 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 13:25:04.310 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 13:25:05.229 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 13:25:07.870 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 13:25:07.927 [main] RegisterDefinition - Aseert successful
+[INFO ] 2023-11-20 13:25:18.790 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:25:38.541 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:26:42.777 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:27:43.643 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:28:07.108 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:28:33.637 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:28:59.505 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:30:17.759 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:31:36.549 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:32:01.085 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:35:20.167 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:36:27.292 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:38:08.185 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:38:30.620 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:39:00.335 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:40:04.946 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 13:41:20.021 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 14:40:15.451 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:41:40.319 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 14:44:05.472 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:46:26.542 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:47:37.766 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:49:55.815 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:51:31.349 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:52:53.979 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:54:59.355 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 14:57:29.832 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:04:57.666 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:06:41.982 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:07:17.836 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:07:59.348 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:09:43.776 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:11:07.575 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:11:48.455 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:12:19.642 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:13:24.780 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:14:37.327 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:16:11.632 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:16:15.231 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 15:16:18.818 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 15:16:19.641 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 15:16:21.431 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 15:16:21.990 [main] RegisterDefinition - Aseert successful
+[INFO ] 2023-11-20 15:16:58.858 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:18:19.389 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:20:01.644 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:21:12.383 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:24:22.684 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:27:10.356 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:27:47.495 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:29:37.116 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:30:11.917 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:31:25.221 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:31:30.412 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 15:31:33.760 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 15:31:34.788 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 15:31:37.093 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 15:32:07.348 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:32:10.978 [main] RegisterDefinition - HomePage launched
+[INFO ] 2023-11-20 15:32:13.861 [main] RegisterDefinition - Create account page opened
+[INFO ] 2023-11-20 15:32:14.916 [main] RegisterDefinition - Manditory Data passed
+[INFO ] 2023-11-20 15:32:17.813 [main] RegisterDefinition - Account created succesfully
+[INFO ] 2023-11-20 15:32:17.854 [main] RegisterDefinition - Aseert successful
+[INFO ] 2023-11-20 15:33:20.182 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:34:53.949 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:37:07.933 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:38:06.698 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:38:41.386 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 15:39:55.812 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:00:05.086 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:06:20.897 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:17:38.319 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:20:38.304 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:22:27.193 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-20 16:25:46.910 [main] RegisterDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 08:13:25.740 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 08:13:32.623 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 08:13:39.118 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 08:13:39.915 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 08:13:42.753 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 08:13:42.786 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 08:15:41.220 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 08:15:46.167 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 08:15:49.899 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 08:15:50.833 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 08:15:53.358 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 08:15:53.396 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:04:37.517 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:04:49.710 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:04:56.785 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:04:57.999 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:05:01.223 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:05:01.313 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:09:04.009 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:09:08.045 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:11:09.011 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:11:11.821 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:11:19.262 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:11:22.863 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:11:25.821 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:11:26.076 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:44:09.112 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:44:12.270 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:44:19.080 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:44:20.897 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:44:23.467 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:44:23.551 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:47:06.225 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:47:09.030 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:47:12.139 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:47:12.964 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:47:16.377 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:47:16.443 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:49:27.950 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:49:33.338 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:49:39.348 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:49:40.272 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:49:45.127 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:49:45.262 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:54:02.854 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:54:06.009 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:54:12.856 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 09:54:13.387 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 09:54:16.456 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 09:54:16.502 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 09:55:46.881 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:55:52.669 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 09:58:19.862 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 09:58:55.822 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:00:40.922 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:00:47.431 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:13:53.364 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:13:58.051 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:14:03.310 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:14:04.107 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:14:06.719 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:14:06.770 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:16:34.216 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:16:36.798 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:16:40.912 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:16:41.872 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:16:44.610 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:16:44.665 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:18:08.799 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:18:13.091 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:18:26.033 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:18:28.141 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:18:30.002 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:19:13.061 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:19:17.162 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:19:20.615 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:19:21.487 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:19:23.399 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:20:02.709 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:20:11.851 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:20:16.344 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:20:16.884 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:20:19.203 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:21:04.452 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:21:06.443 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:21:09.363 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:21:10.294 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:21:13.313 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:21:13.506 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:24:05.189 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:24:07.447 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:24:10.489 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:24:11.410 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:24:13.803 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:24:13.858 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:25:30.720 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:25:34.419 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:25:38.525 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:25:39.030 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:25:42.948 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:25:42.978 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:27:09.103 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:27:12.751 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:27:15.655 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:27:16.597 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:27:19.511 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:27:19.543 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:35:12.318 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:35:14.827 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:35:20.368 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:35:21.144 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:35:23.685 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:35:23.747 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:39:22.965 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:39:30.873 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:39:37.600 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:39:38.139 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:39:41.099 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:40:12.293 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:40:17.298 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:40:24.717 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:40:25.583 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:40:28.103 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:40:28.189 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:45:08.412 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:45:10.571 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:46:48.561 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:46:52.241 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:46:58.342 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:46:59.726 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:47:03.321 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:47:03.473 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:49:19.279 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:49:22.269 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:49:30.488 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:49:31.422 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:49:34.666 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:49:34.706 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:51:58.352 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:52:02.545 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:52:05.425 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:52:06.354 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:52:08.563 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:52:32.719 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:52:36.389 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:52:38.949 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:52:39.892 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:52:42.488 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:52:42.530 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 10:54:46.051 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:55:11.234 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 10:55:14.244 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 10:55:16.833 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 10:55:17.912 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 10:55:20.482 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 10:55:20.518 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:00:14.555 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:00:23.718 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:00:31.176 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:00:31.959 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:00:35.222 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:00:35.260 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:05:35.338 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:05:40.951 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:05:46.315 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:05:47.225 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:05:49.975 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:05:50.018 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:11:50.789 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:11:55.053 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:12:59.301 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:13:06.522 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:13:11.832 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:13:12.374 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:13:15.670 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:13:15.705 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:15:33.957 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:15:37.804 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:15:40.532 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:15:41.406 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:15:44.193 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:15:44.227 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:19:22.572 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:19:25.910 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:22:18.468 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:22:20.901 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:22:28.417 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:22:29.207 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:22:31.632 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:22:31.669 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:31:32.433 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:31:35.921 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:31:42.442 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:31:43.248 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:31:45.582 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:31:45.829 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:40:19.421 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:40:23.000 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:40:25.670 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:40:26.624 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:40:28.643 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:41:32.846 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:41:36.640 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:41:39.164 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:41:40.107 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:41:43.157 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:41:43.191 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:47:05.973 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:47:08.608 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:47:11.451 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:47:12.429 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:47:14.219 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:48:52.339 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:48:56.325 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:49:05.209 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:49:08.119 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:49:10.383 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:49:10.743 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 11:57:12.490 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 11:57:19.112 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 11:57:21.596 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 11:57:22.570 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 11:57:26.101 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 11:57:26.136 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 12:02:16.590 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:02:20.692 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:02:23.549 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:02:24.509 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:02:27.047 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:02:27.109 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 12:07:44.058 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:07:48.357 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:07:51.015 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:07:51.988 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:07:53.884 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:09:02.386 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:09:06.075 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:09:08.658 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:09:09.593 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:09:12.107 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:09:12.141 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 12:47:28.742 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:47:32.498 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:47:40.857 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:47:44.378 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:47:46.831 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:47:46.995 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 12:55:31.776 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:55:38.387 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:55:40.968 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:55:41.940 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:55:45.172 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:55:45.207 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 12:58:12.080 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 12:58:14.472 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 12:58:17.268 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 12:58:18.232 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 12:58:21.007 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 12:58:21.039 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 13:00:58.930 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 13:01:02.741 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 13:01:13.868 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 13:01:14.687 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 13:01:17.139 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 13:01:50.449 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 13:01:55.853 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 13:01:59.032 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 13:01:59.983 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 13:02:03.200 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 13:02:03.236 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 13:05:54.615 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 13:05:58.644 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 13:06:01.375 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 13:06:02.221 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 13:06:05.918 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 13:06:05.953 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 13:06:56.083 [main] stepDefinition - Driver setUp Successfully
+[INFO ] 2023-11-21 13:07:06.444 [main] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 13:07:18.368 [main] stepDefinition - Create account page opened
+[INFO ] 2023-11-21 13:07:19.255 [main] stepDefinition - Manditory Data passed
+[INFO ] 2023-11-21 13:07:22.091 [main] stepDefinition - Account created succesfully
+[INFO ] 2023-11-21 13:07:22.151 [main] stepDefinition - Aseert successful
+[INFO ] 2023-11-21 13:17:39.852 [TestNG-PoolService-0] stepDefinition - HomePage launched
+[INFO ] 2023-11-21 13:19:39.728 [TestNG-PoolService-5] stepDefinition - Driver setUp Successfully
